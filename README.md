@@ -1,4 +1,6 @@
+
 import java.util.Scanner;
+
 class TemperatureConverter {
     static Scanner sc = new Scanner(System.in);
      // Method to convert Celsius to Fahrenheit
